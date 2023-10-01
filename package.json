@@ -1,7 +1,7 @@
 {
   "name": "@simbolco/str-template",
-  "type": "module",
-  "version": "1.0.0",
+  "type": "commonjs",
+  "version": "1.0.1",
   "description": "Basic string templating library",
   "main": "index.js",
   "types": "index.d.ts",
